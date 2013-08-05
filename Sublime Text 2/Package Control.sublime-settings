@@ -1,0 +1,16 @@
+{
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Color Highlighter",
+		"Git",
+		"GotoRecent",
+		"MoveText",
+		"Open Recent Files",
+		"Package Control",
+		"Pretty JSON",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"XAML"
+	]
+}

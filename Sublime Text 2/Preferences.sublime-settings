@@ -1,0 +1,29 @@
+{
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
+	"find_selected_text": true,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git"
+	],
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+		80,
+		100
+	],
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true
+}

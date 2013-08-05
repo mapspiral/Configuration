@@ -1,0 +1,20 @@
+[user]
+    name = Robert van Drunen
+    email = robert.van.drunen@spatial-eye.com
+[core]
+    autocrlf = false
+    whitespace = cr-at-eol
+[merge]
+    tool = kdiff3
+[diff]
+    tool = kdiff3
+    guitool = kdiff3
+[mergetool "kdiff3"]
+    keepBackup = false
+    trustExitCode = false
+    path = \"c:/Program Files (x86)/KDiff3/kdiff3.exe\"
+[difftool "kdiff3"]
+    path = \"c:/Program Files (x86)/KDiff3/kdiff3.exe\"
+    keepBackup = false
+    trustExitCode = false
+    cmd = \"c:/Program Files (x86)/KDiff3/kdiff3.exe\" \"$LOCAL\" \"$REMOTE\"
